@@ -40,4 +40,4 @@ Cheongju University, Cheongju, South Korea
 
 For a full list of my publications, please visit my profile below.
 
-<i class="ai ai-google-scholar-square"></i> (https://scholar.google.com/citations?user=f_qhwuQAAAAJ&hl=ko)
+[<i class="ai ai-google-scholar-square"></i> Google Scholar](https://scholar.google.com/citations?user=f_qhwuQAAAAJ&hl=ko)
