@@ -29,11 +29,9 @@ description:           >
   with a focus on personal sites that are meant to impress.
 
 # A shorter description for the sidebar.
-tagline:               |
-  Master Student
-  Department of Mechanical and Aeronautical systems Engineering
-  Cheongju University, Cheongju, South Korea
-  
+tagline: "Master Student<br>Department of Mechanical and Aeronautical systems Engineering<br>Cheongju University, Cheongju, South Korea"
+
+
 # A list of keywords for your blog
 keywords:              [GNC, Aerospace, Deep Learning, Filtering, Image Processing]
 
