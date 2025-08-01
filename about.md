@@ -12,8 +12,6 @@ redirect_from:
 - oh my god!
 - vision based ,,,
 
-<!--author-->
-
 
 [jekyll]: https://jekyllrb.com
 
