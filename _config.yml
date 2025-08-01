@@ -20,13 +20,10 @@
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Jeonghun Lee's Blog
+title:                 Jeonghun Lee
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
-description:           >
-  Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
 
 # A shorter description for the sidebar.
 tagline: "Master Student<br>Department of Mechanical and Aeronautical systems Engineering<br>Cheongju University, Cheongju, South Korea"
@@ -50,12 +47,20 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Example
-    url:               /example/
-  - title:             Documentation
-    url:               /docs/
-  - title:             About
-    url:               /about/
+  - title:             Research Highlights
+    url:               /highlights/
+  # - title:             Blog
+  #   url:               /blog/
+  # - title:             Projects
+  #   url:               /projects/
+
+
+  # - title:             Example
+  #   url:               /example/
+  # - title:             Documentation
+  #   url:               /docs/
+  # - title:             About
+  #   url:               /about/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
