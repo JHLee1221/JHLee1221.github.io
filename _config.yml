@@ -47,16 +47,16 @@ author:
 
 # Add links to the sidebar.
 menu:
-  - title:             Research Highlights
-    url:               /highlights/
+  # - title:             Research Highlights
+  #   url:               /highlights/
   # - title:             Blog
   #   url:               /blog/
   # - title:             Projects
   #   url:               /projects/
 
 
-  # - title:             Example
-  #   url:               /example/
+  - title:             Research Highlights
+    url:               /example/
   # - title:             Documentation
   #   url:               /docs/
   # - title:             About
