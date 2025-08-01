@@ -1,7 +1,7 @@
 ---
-layout: about
+layout: post
 title:  "Introduce"
-date:   2025-08-01 12:43:22 +0900
+date:   2025-08-01
 categories: introduce update
 ---
 
