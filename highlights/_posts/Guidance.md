@@ -11,4 +11,5 @@ image:
 accent_image: /assets/img/blog/pawel-czerwinski-848z7lbCjoo-unsplash.jpg
 excerpt_separator: <!--more-->
 sitemap: false
+permalink: /highlights/
 ---
