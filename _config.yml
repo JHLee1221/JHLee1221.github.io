@@ -59,8 +59,8 @@ menu:
   #   url:               /highlights/
   # - title:             Documentation
   #   url:               /docs/
-  - title:             Research Highlights
-    url:               /about/
+  # - title:             Research Highlights
+  #   url:               /about/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
